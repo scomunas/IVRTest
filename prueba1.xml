@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response><Gather input="speech dtmf" numDigits="1" timeout="3"><Say language="ca-ES" voice="woman">Premi 1 per anar a on vulgui</Say></Gather></Response>
